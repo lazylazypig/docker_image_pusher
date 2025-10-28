@@ -1,1 +1,2 @@
-onlyxool/vimicro-ai:gpu
+#onlyxool/vimicro-ai:gpu
+alexsuntop/mineru
