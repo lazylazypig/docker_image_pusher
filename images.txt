@@ -2,4 +2,5 @@
 #alexsuntop/mineru
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
 #snowdreamtech/frps:nightly-alpine3.22
-livekit/python-agent-slim:latest
+#livekit/python-agent-slim:latest
+docker pull dustynv/pytorch:2.7-r36.4.0-cu128-24.04
