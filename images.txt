@@ -11,3 +11,4 @@
 #worm128/yinmei-cosyvoice:plusfix
 #fishaudio/fish-speech:latest
 frankleeeee/sglang-omni:dev
+
