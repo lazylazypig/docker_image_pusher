@@ -10,5 +10,6 @@
 #python:3.12.12-slim-bookworm
 #worm128/yinmei-cosyvoice:plusfix
 #fishaudio/fish-speech:latest
-frankleeeee/sglang-omni:dev
+#frankleeeee/sglang-omni:dev
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 
