@@ -11,5 +11,6 @@
 #worm128/yinmei-cosyvoice:plusfix
 #fishaudio/fish-speech:latest
 #frankleeeee/sglang-omni:dev
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
+#nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
+vllm/vllm-openai:glm51
 
