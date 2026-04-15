@@ -12,4 +12,6 @@
 #fishaudio/fish-speech:latest
 #frankleeeee/sglang-omni:dev
 #nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
-vllm/vllm-openai:glm51
+#vllm/vllm-openai:glm51
+nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
+
