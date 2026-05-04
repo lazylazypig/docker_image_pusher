@@ -17,3 +17,4 @@
 #vllm/vllm-openai:v0.19.1
 #vllm/vllm-openai:deepseekv4-cu129
 nvidia/cuda:13.0.0-cudnn-devel-ubuntu22.04
+vllm/vllm-omni:v0.18.0
