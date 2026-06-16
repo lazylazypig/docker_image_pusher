@@ -18,4 +18,5 @@
 #vllm/vllm-openai:deepseekv4-cu129
 #nvidia/cuda:13.0.0-cudnn-devel-ubuntu22.04
 #vllm/vllm-omni:v0.18.0
-jwduck/so-vits-svc:4.1
+#jwduck/so-vits-svc:4.1
+ultralytics/ultralytics:8.4.68-python-export
