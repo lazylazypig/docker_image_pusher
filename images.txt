@@ -20,4 +20,5 @@
 #vllm/vllm-omni:v0.18.0
 #jwduck/so-vits-svc:4.1
 #ultralytics/ultralytics:8.4.68-python-export
-ultralytics/ultralytics:latest
+#ultralytics/ultralytics:latest
+jupyterhub/jupyterhub:latest
