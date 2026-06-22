@@ -22,4 +22,6 @@
 #ultralytics/ultralytics:8.4.68-python-export
 #ultralytics/ultralytics:latest
 #jupyterhub/jupyterhub:latest
-vllm/vllm-openai:glm52
+#vllm/vllm-openai:glm52
+node:26-slim
+python:3.12-slim
