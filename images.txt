@@ -26,8 +26,8 @@
 #node:26-slim
 #python:3.12-slim
 #node:24.17.0-slim
-clearml/server:latest
-#clearml/clearml-agent-services:latest
+#clearml/server:latest
+clearml/clearml-agent-services:latest
 #elasticsearch:8.19.9
 #mongo:8.0.15
 #redis:8.2.3
