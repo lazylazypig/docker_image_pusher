@@ -31,3 +31,4 @@ clearml/clearml-agent-services:latest
 elasticsearch:8.19.9
 mongo:8.0.15
 redis:8.2.3
+
