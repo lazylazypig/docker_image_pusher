@@ -28,7 +28,8 @@
 #node:24.17.0-slim
 #clearml/server:latest
 #clearml/clearml-agent-services:latest
-elasticsearch:8.19.9
-mongo:8.0.15
-redis:8.2.3
+#elasticsearch:8.19.9
+#mongo:8.0.15
+#redis:8.2.3
+pytorch/pytorch:2.3.0-cuda12.1-cudnn8-devel
 
