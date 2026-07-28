@@ -32,4 +32,5 @@
 #mongo:8.0.15
 #redis:8.2.3
 #pytorch/pytorch:2.3.0-cuda12.1-cudnn8-devel
-multiarch/qemu-user-static:latest
+#multiarch/qemu-user-static:latest
+tonistiigi/binfmt:latest
