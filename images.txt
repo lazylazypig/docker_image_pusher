@@ -33,4 +33,5 @@
 #redis:8.2.3
 #pytorch/pytorch:2.3.0-cuda12.1-cudnn8-devel
 #multiarch/qemu-user-static:latest
-tonistiigi/binfmt:latest
+#tonistiigi/binfmt:latest
+tonistiigi/binfmt:qemu-v10.2.3
