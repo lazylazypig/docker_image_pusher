@@ -38,3 +38,4 @@
 #apache/arrow-dev:amd64-ubuntu-20.04-python-3
 #vllm/vllm-openai:nightly
 ubuntu/python:3.10-22.04
+ubuntu:22.04
