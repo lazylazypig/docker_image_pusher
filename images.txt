@@ -35,4 +35,5 @@
 #multiarch/qemu-user-static:latest
 #tonistiigi/binfmt:latest
 #tonistiigi/binfmt:qemu-v10.2.3
-arm64v8/ubuntu:22.04
+#arm64v8/ubuntu:22.04
+apache/arrow-dev:amd64-ubuntu-20.04-python-3
