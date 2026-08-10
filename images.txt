@@ -37,5 +37,6 @@
 #tonistiigi/binfmt:qemu-v10.2.3
 #apache/arrow-dev:amd64-ubuntu-20.04-python-3
 #vllm/vllm-openai:nightly
-ubuntu/python:3.10-22.04
-ubuntu:22.04
+#ubuntu/python:3.10-22.04
+#ubuntu:22.04
+vllm/vllm-openai:latest
