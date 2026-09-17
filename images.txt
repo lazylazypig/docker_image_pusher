@@ -40,6 +40,6 @@
 #ubuntu/python:3.10-22.04
 #ubuntu:22.04
 #vllm/vllm-openai:latest
-vllm/vllm-openai:glm53-flash
-vllm/vllm-openai:deepseekv41-flash-0909
-
+#vllm/vllm-openai:glm53-flash
+#vllm/vllm-openai:deepseekv41-flash-0909
+vllm/vllm-openai:nightly
